@@ -68,7 +68,7 @@ https://www.omaspecworks.org/about/intellectual-property-rights/
                 <Operations>RW</Operations>
                 <MultipleInstances>Single</MultipleInstances>
                 <Mandatory>Mandatory</Mandatory>
-                <Type>Integer</Type>
+                <Type>Error</Type>
                 <RangeEnumeration>0..255</RangeEnumeration>
                 <Units></Units>
                 <Description>
